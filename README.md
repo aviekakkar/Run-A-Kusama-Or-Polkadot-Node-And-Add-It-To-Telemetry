@@ -1,5 +1,7 @@
 # Run-A-Kusama-Or-Polkadot-Node-And-Add-It-To-Telemetry
 
+##Polka Node Proof
+![Live node on https://telemetry.polkadot.io/](./live-polkaNode-on-telemetry-proof.png)
 
 Download the latest binary release or build Polkadot or Kusama from source, and run your node. Add it to telemetry as per the README instructions, and let us know when your node appears in the telemetry.polkadot.io list!
 Submission requirements
